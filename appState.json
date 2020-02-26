@@ -1,0 +1,117 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "693617ef-241d-4f4e-98ee-96cab5b9bc03": {
+        "id": "693617ef-241d-4f4e-98ee-96cab5b9bc03",
+        "parent": null,
+        "name": "function.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "function.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs8",
+          "timeout": 60,
+          "memory": 128,
+          "triggerType": 0
+        },
+        "triggers": [
+          {
+            "resourceName": "http-trigger",
+            "config": {}
+          }
+        ]
+      },
+      "d7b2f54b-0456-4eab-a2ee-71e205d870f0": {
+        "id": "d7b2f54b-0456-4eab-a2ee-71e205d870f0",
+        "parent": null,
+        "name": "index.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "index.js"
+      },
+      "dbc9167c-3da5-4567-b0ef-06638bf5fbc6": {
+        "id": "dbc9167c-3da5-4567-b0ef-06638bf5fbc6",
+        "parent": null,
+        "name": "main.py",
+        "type": "PYTHON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "main.py"
+      },
+      "b608585e-90c6-4307-a50b-05643b921a9c": {
+        "id": "b608585e-90c6-4307-a50b-05643b921a9c",
+        "parent": null,
+        "name": "Function2.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "Function2.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 4
+        },
+        "config": {
+          "runtime": "nodejs10",
+          "timeout": 60,
+          "memory": 128,
+          "triggerType": 0
+        },
+        "triggers": [
+          {
+            "resourceName": "http-trigger",
+            "config": {}
+          }
+        ]
+      }
+    },
+    "openFiles": [
+      "693617ef-241d-4f4e-98ee-96cab5b9bc03",
+      "d7b2f54b-0456-4eab-a2ee-71e205d870f0",
+      "dbc9167c-3da5-4567-b0ef-06638bf5fbc6",
+      "b608585e-90c6-4307-a50b-05643b921a9c"
+    ],
+    "currentFileId": "b608585e-90c6-4307-a50b-05643b921a9c",
+    "resources": {
+      "http-trigger": {
+        "name": "http-trigger",
+        "type": "http-trigger",
+        "config": {}
+      }
+    },
+    "customTemplate": {
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "testgcp-nodejs-sachithra",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east1",
+    "platform": "GCP",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1582696697971
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "testgcp-nodejs-sachithra",
+      "url": "https://github.com/Indunil1992/testgcp-nodejs-sachithra"
+    }
+  }
+}
